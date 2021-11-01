@@ -1,7 +1,6 @@
 package com.lumini.avaliacao.controller;
 
-import com.lumini.avaliacao.Service.Impl.UtilServiceImpl;
-import com.lumini.avaliacao.Service.UtilService;
+import com.lumini.avaliacao.service.UtilService;
 import com.lumini.avaliacao.model.CompanyAddress;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
